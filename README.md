@@ -1,6 +1,6 @@
 ---
 
-![Okay, maybe you saw something.](pattern.svg "You didn't see anything!")
+![Okay, maybe you saw something.](https://github.com/effective-light/effective-light/blob/master/pattern.svg "You didn't see anything!")
 
 ---
 
